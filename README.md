@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/0xpiyu-sh/leetcode/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/0xpiyu-sh/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/0xpiyu-sh/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/0xpiyu-sh/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
