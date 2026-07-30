@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/0xpiyu-sh/leetcode/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/0xpiyu-sh/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/0xpiyu-sh/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/0xpiyu-sh/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/0xpiyu-sh/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
