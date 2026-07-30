@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/0xpiyu-sh/leetcode/tree/master/0520-detect-capital) |
 | [0572-subtree-of-another-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/0xpiyu-sh/leetcode/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/0xpiyu-sh/leetcode/tree/master/2390-removing-stars-from-a-string) |
