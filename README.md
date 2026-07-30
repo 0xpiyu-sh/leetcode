@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/0xpiyu-sh/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
