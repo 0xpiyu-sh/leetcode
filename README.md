@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/0xpiyu-sh/leetcode/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
