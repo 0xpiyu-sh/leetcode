@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
