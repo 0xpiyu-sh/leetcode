@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/0xpiyu-sh/leetcode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
