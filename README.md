@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/0xpiyu-sh/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/0xpiyu-sh/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/0xpiyu-sh/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
