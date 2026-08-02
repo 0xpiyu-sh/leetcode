@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/0xpiyu-sh/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0877-stone-game) |
 ## Greedy
@@ -101,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/0xpiyu-sh/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
