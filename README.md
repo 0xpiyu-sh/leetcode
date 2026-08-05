@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/0xpiyu-sh/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/0xpiyu-sh/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/0xpiyu-sh/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0965-univalued-binary-tree) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/0xpiyu-sh/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -209,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/0xpiyu-sh/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/0xpiyu-sh/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
