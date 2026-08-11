@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/0xpiyu-sh/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0xpiyu-sh/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0xpiyu-sh/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0xpiyu-sh/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/0xpiyu-sh/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0xpiyu-sh/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/0xpiyu-sh/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
