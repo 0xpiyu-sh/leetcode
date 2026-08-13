@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0xpiyu-sh/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/0xpiyu-sh/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/0xpiyu-sh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/0xpiyu-sh/leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/0xpiyu-sh/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0xpiyu-sh/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/0xpiyu-sh/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/0xpiyu-sh/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/0xpiyu-sh/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0xpiyu-sh/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
